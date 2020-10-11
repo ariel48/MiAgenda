@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">MiAgenda</string>
+    <string name="titulo_nombre">Nombre Completo</string>
+    <string name="titulo_telefono">Telefono</string>
+    <string name="titulo_email">Email</string>
+    <string name="titulo_descripcion">Descripicion Contacto</string>
+    <string name="titulo_botonsiguiente">Siguiente</string>
+    <string name="titulo_detalle">Confirmar Datos</string>
+    <string name="detalle_nombre">Nombre: </string>
+    <string name="detalle_fecha">Fecha Nacimiento: </string>
+    <string name="detalle_telefono">Telefono: </string>
+    <string name="detalle_email">Email: </string>
+    <string name="detalle_descripcion">Descripcion: </string>
+    <string name="titulo_boton_editardatos">Editar Datos</string>
+    <string name="pnombre">nombre</string>
+    <string name="pfecha">fecha</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdescripcion">descripcion</string>
+
+</resources>
